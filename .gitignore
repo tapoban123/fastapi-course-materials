@@ -1,0 +1,9 @@
+# Exclude env files
+.env
+
+# Exclude virtual env folder
+venv/
+
+# Exclude cache folders
+__pycache__/
+.vscode/*

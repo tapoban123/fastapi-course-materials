@@ -1,6 +1,7 @@
 # Learning [FastAPI](https://fastapi.tiangolo.com/tutorial/#run-the-code)
 
 ## Fist Steps
+1. Python version used `Python 3.13.2`
 1. Create a virtual environment using the following command on your terminal.
     ```
     python3 -m venv <venv_name>

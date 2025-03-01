@@ -2,11 +2,29 @@
 
 ## Fist Steps
 1. Python version used `Python 3.13.2`
-1. Create a virtual environment using the following command on your terminal.
-    ```
+2. Create a virtual environment using the following command on your terminal.
+    ```bash
     python3 -m venv <venv_name>
     ```
-2. 
+3. Activate the virtual_env.
+4. Install all the required packages using the following command:
+    ``` bash
+    pip3 install -r requirements.txt
+    ```
+5. Set up your `.env` files for the required projects with the required credentials.
+6. Navigate to any of the fastapi applications.
+7. Run the following command on your terminal. 
+    
+    `If the project has a main.py file:`
+    ```bash
+    fastapi dev main.py
+    ```
+    <br>
+
+    `If the project does not have a main.py file.`
+    ```bash
+    uvicorn <filename>:app --reload
+    ```
 ## Notes
 
 Fastapi is the framework and uvicorn is the ASGI (Asynchronous Server Gateway Interface) server that runs our application.

@@ -61,3 +61,4 @@ Fastapi is the framework and uvicorn is the ASGI (Asynchronous Server Gateway In
 - [**Annotated from Typing**](<https://stackoverflow.com/questions/71898644/how-to-use-python-typing-annotated#:~:text=Annotated%20in%20python%20allows%20developers,additional%20information%20related%20to%20it.&text=This%20tells%20that%20name%20is,(metadata)%20to%20a%20reference.>)
 - [**Website used to generate the SECRET_KEY**](https://jwtsecret.com/generate)
 - [**Official JWT Website used to encode and decode JWT tokens**](https://jwt.io/)
+- [**Website for all SQLAlchemy `Database URLS`**](https://docs.sqlalchemy.org/en/20/core/engines.html)

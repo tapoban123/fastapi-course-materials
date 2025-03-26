@@ -78,4 +78,7 @@ Fastapi is the framework and uvicorn is the ASGI (Asynchronous Server Gateway In
 - [**Official JWT Website used to encode and decode JWT tokens**](https://jwt.io/)
 - [**Website for all SQLAlchemy `Database URLS`**](https://docs.sqlalchemy.org/en/20/core/engines.html)
 
+### Other Resouces:
+- [**Telling the DB to calculate current time**](https://stackoverflow.com/questions/13370317/sqlalchemy-default-datetime)
+
 </details>

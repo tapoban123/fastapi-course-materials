@@ -80,5 +80,6 @@ Fastapi is the framework and uvicorn is the ASGI (Asynchronous Server Gateway In
 
 ### Other Resouces:
 - [**Telling the DB to calculate current time**](https://stackoverflow.com/questions/13370317/sqlalchemy-default-datetime)
+- [**Websockets using Fastapi (Offical Doc)**](https://stackoverflow.com/questions/13370317/sqlalchemy-default-datetime)
 
 </details>
